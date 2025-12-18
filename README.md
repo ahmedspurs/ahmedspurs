@@ -71,9 +71,9 @@ I specialize in creating modern, high-performance systems with clean architectur
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: **https://github.com/your-username**
-- 🌐 Portfolio: *(Add your website if available)*
-- ✉️ Email: *(Add your professional email)*
+- 💼 GitHub: **https://github.com/ahmedspurs**
+- 🌐 Portfolio: *ahmed-adi.com*
+- ✉️ Email: *contact@ahmed-adil.com*
 
 ---
 
