@@ -45,7 +45,3 @@ Most client code is private. Happy to walk through architecture and decisions in
 - **Data:** MySQL, PostgreSQL, Redis
 - **DevOps:** Linux VPS, Docker, Nginx, Caddy, PM2
 - **Integrations:** WhatsApp Cloud API, OpenAI and Anthropic APIs, payment gateways
-
-## Open to
-
-Full-stack, backend and mobile roles in Saudi Arabia, the GCC, Europe, Canada and Australia, or remote.
