@@ -1,80 +1,51 @@
-# 👋 Hi, I'm Ahmed
+<h1 align="center">Ahmed Adil Abuzaid</h1>
 
-🚀 **Full Stack Developer** with over **4+ years of experience** in building scalable web and mobile applications.  
-I specialize in creating modern, high-performance systems with clean architecture, strong UX, and reliable backends.
+<p align="center">
+  <b>Director of Technology at <a href="https://tikt.sa">Ticket Solutions</a> · Full-Stack Developer</b><br>
+  Node.js · Vue 3 / Nuxt · Flutter · TypeScript · PostgreSQL · Docker
+</p>
 
----
-
-## 💼 About Me
-
-- 🔹 Full Stack Developer with hands-on experience in **Web, Mobile, and Systems Integration**
-- 🔹 Strong background in **event platforms, dashboards, admin systems, and APIs**
-- 🔹 Experienced in **hardware & software integration** (QR, RFID, IoT concepts)
-- 🔹 Passionate about clean code, performance, and real-world problem solving
-- 🔹 Worked on large-scale projects, conferences, NGOs, and SaaS platforms
+<p align="center">
+  <a href="https://ahmed-adil.com"><img src="https://img.shields.io/badge/Portfolio-ahmed--adil.com-111827?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahmed-adil-784786205/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Adil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@ahmed-adil.com"><img src="https://img.shields.io/badge/Email-contact%40ahmed--adil.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+I build production web platforms and mobile apps end to end: requirements, system analysis, architecture, APIs, front ends, mobile apps and deployment. 6+ years of experience, based in Al-Khobar, Saudi Arabia.
 
-### 🌐 Frontend
-- **Vue.js** (Composition API, Vite)
-- **Tailwind CSS**
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design & RTL/LTR Support
+Most of my work is for event ticketing, medical societies, large conferences and hospitality, plus on-site event technology (QR check-in, kiosks, NFC gates, digital signage).
 
-### ⚙️ Backend
-- **Node.js**
-- **Express.js**
-- **ASP.NET Core**
-- RESTful APIs
-- Authentication & Authorization
+## Open source
 
-### 📱 Mobile Development
-- **Flutter**
-- Android & iOS builds
-- State Management (GetX)
+**[Raseel](https://github.com/ahmedspurs/raseel)**: a self-hosted WhatsApp team inbox and CRM for Arabic-speaking businesses, built on the official WhatsApp Cloud API.  
+Shared inbox, assignment, CRM, templates, broadcasts and automation, with full Arabic RTL support.  
+`Nuxt` `TypeScript` `Fastify` `BullMQ` `PostgreSQL` `Docker` · AGPL-3.0
 
-### 🗄️ Databases
-- MySQL / MariaDB
-- SQL Server
-- Database Design & Optimization
+## Selected work
 
-### 🚀 DevOps & Tools
-- Nginx
-- PM2
-- Git & GitHub
-- Linux (Ubuntu)
-- VPS & Server Management
-- SSL & Domain Configuration
+| Project | What I built | Stack |
+|---|---|---|
+| [Ticket Solutions](https://tikt.sa) | Event ticketing platform and Pulse, a Flutter staff app on the App Store and Google Play | Vue 3, Node.js, Flutter |
+| [SDEA](https://sdea.org.sa) | Web platform and mobile app for the Saudi Society of Diabetes & Endocrinology | Vue 3, Node.js, Flutter |
+| [SDBP](https://sdbp.org.sa) | Website for the Developmental & Behavioral Pediatrics Society | Vue 3, Node.js |
+| [Lian Park Hotel](https://lianpark.sa) | Hotel website with online booking | Vue, Node.js |
+| [Mashhad 7](https://mashhad7.sa) | Website for a Saudi film production team | Vue, Node.js |
+| Event technology | QR check-in, self-service kiosks, NFC smart gates, digital signage | ESP32, Electron, Vue |
 
----
+Most client code is private. Happy to walk through architecture and decisions in an interview.
 
-## 🧠 What I Do Best
+## Tech stack
 
-- ✔️ Full Stack Web Applications
-- ✔️ Admin Dashboards & CMS
-- ✔️ REST API Development
-- ✔️ Event & Crowd Management Systems
-- ✔️ Mobile Apps with Flutter
-- ✔️ System Integration & Automation
+- **Languages:** JavaScript, TypeScript, Dart, Python, PHP, SQL
+- **Frontend:** Vue 3, Nuxt, Pinia, Tailwind CSS
+- **Backend:** Node.js, Express, Fastify, REST APIs, Socket.io, BullMQ, Prisma, Sequelize, Laravel
+- **Mobile & desktop:** Flutter, Ionic/Capacitor, Electron
+- **Data:** MySQL, PostgreSQL, Redis
+- **DevOps:** Linux VPS, Docker, Nginx, Caddy, PM2
+- **Integrations:** WhatsApp Cloud API, OpenAI and Anthropic APIs, payment gateways
 
----
+## Open to
 
-## 📌 Current Focus
-
-- Scalable SaaS platforms  
-- Event technology & smart systems  
-- High-performance Vue & ASP.NET Core applications  
-
----
-
-## 📫 Connect With Me
-
-- 💼 GitHub: **https://github.com/ahmedspurs**
-- 🌐 Portfolio: *https://ahmed-adil.com*
-- ✉️ Email: *contact@ahmed-adil.com*
-
----
-
-⭐️ *Always open to collaboration, new challenges, and impactful projects.*
+Full-stack, backend and mobile roles in Saudi Arabia, the GCC, Europe, Canada and Australia, or remote.
